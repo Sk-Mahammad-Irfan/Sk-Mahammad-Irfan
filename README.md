@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mahammad Irfan
+# 👋 Hi there, I'm Sk Mahammad Irfan
 
 ### Full-Stack Developer | Generative AI Specialist | Tech Enthusiast
 
@@ -54,8 +54,7 @@ Successfully completed a deep-dive coding journey into **Generative AI**. This i
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Insert Link]
-- **Email:** [Insert Email]
-- **Portfolio:** [Insert Link]
+- **LinkedIn:** (https://www.linkedin.com/in/sk-mahammad-irfan/)
+- **Email:** skmahammadirfan8@gmail.com
 
 ---

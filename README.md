@@ -47,14 +47,8 @@ Successfully completed a deep-dive coding journey into **Generative AI**. This i
 
 ---
 
-### 📊 GitHub Activity
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sk8Mahammad-Irfan9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk8Mahammad-Irfan9&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
-- **LinkedIn:** (https://www.linkedin.com/in/sk-mahammad-irfan/)
+- **LinkedIn:** https://www.linkedin.com/in/sk-mahammad-irfan
 - **Email:** skmahammadirfan8@gmail.com
 
 ---

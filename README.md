@@ -26,13 +26,6 @@ Building intelligent, scalable applications with a focus on **JavaScript**, **No
 
 - **Wallet Watch** (Active)
   A comprehensive **Subscription Manager** tool. It allows users to monitor billing cycles, track financial commitments, and optimize their monthly spending.
-
-- **Vahan-Shield**
-  An AI-powered vehicle compliance and health monitor tailored for the Indian market, tracking insurance, PUC, and fines via API integration.
-
-- **Local-First Task Manager**
-  A collaborative tool for small teams that prioritizes privacy and works seamlessly offline with local Wi-Fi synchronization.
-
 ---
 
 ### 🧠 2026 Milestone: 30 Days of GenAI

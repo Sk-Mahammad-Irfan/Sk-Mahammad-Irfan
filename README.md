@@ -18,7 +18,6 @@ Building intelligent, scalable applications with a focus on **JavaScript**, **No
 | **Backend** | Node.js, Express, REST APIs |
 | **AI / ML** | LangChain, RAG (Retrieval-Augmented Generation), ChromaDB |
 | **Database** | Vector Databases, SQL/NoSQL |
-| **Architecture** | Local-First Sync, Offline-First Systems |
 
 ---
 
